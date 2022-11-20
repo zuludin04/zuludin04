@@ -10,10 +10,10 @@ Dart, Flutter, Kotlin, Java, React
 
 
 ## 🚀 My Projects
-|Nyarios - Real-Time Chatting App | During - Money Tracking App |
+|[Nyarios - Real-Time Chatting App](https://github.com/zuludin04/nyarios) | [During - Money Tracking App](https://github.com/zuludin04/during) |
 |------------|-------------|
-|![file](https://user-images.githubusercontent.com/42988089/110570942-c642bb80-8124-11eb-9ad3-c1244f1d43e4.gif) | ![food](https://user-images.githubusercontent.com/42988089/112217689-d365ad00-8bf0-11eb-9d09-a8ea7b8df56a.gif)|
+|![file](https://raw.githubusercontent.com/zuludin04/zuludin04/main/images/Screenshot_20221120-120546.jpg) | ![food](https://raw.githubusercontent.com/zuludin04/zuludin04/main/images/Screenshot_20221120-210640.jpg)|
 
-|Mumtaaz - Muslim Application | Alita WMS - Warehouse management application |
-|------------|-------------|
-|![file](https://user-images.githubusercontent.com/42988089/110570942-c642bb80-8124-11eb-9ad3-c1244f1d43e4.gif) | ![food](https://user-images.githubusercontent.com/42988089/112217689-d365ad00-8bf0-11eb-9d09-a8ea7b8df56a.gif)|
+|Mumtaaz - Muslim Application |
+|------------|
+|![file](https://raw.githubusercontent.com/zuludin04/zuludin04/main/images/Screenshot_20221120-205810.png) |
